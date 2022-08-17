@@ -37,6 +37,7 @@
     <xwiki.release.jira.skip>true</xwiki.release.jira.skip>
     <xwiki.clirr.skip>true</xwiki.clirr.skip>
     <xwiki.extension.features>nlemoine:imagemap-macro</xwiki.extension.features>
+    <xwiki.revapi.skip>true</xwiki.revapi.skip>
   </properties>
   <scm>
     <connection>scm:git:git://github.com/xwiki-contrib/macro-imagemap.git</connection>
