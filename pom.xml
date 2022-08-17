@@ -29,7 +29,7 @@
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>macro-imagemap</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>Image map macro</name>
   <packaging>xar</packaging>
   <description>Allows to add an image map in a wiki page, using a syntax similar to mediawiki's image map.</description>
@@ -43,7 +43,7 @@
     <connection>scm:git:git://github.com/xwiki-contrib/macro-imagemap.git</connection>
     <developerConnection>scm:git:git@github.com:xwiki-contrib/macro-imagemap.git</developerConnection>
     <url>https://github.com/xwiki-contrib/macro-imagemap</url>
-    <tag>macro-imagemap-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>
